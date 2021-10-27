@@ -1,19 +1,20 @@
 ## Hello, I'm Patrick Vasconcelos
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickvasconcelos&color=blue" alt="patrickvasconcelos" /> </p>
 I am an Engineering Physicist with experience in optimization models such as linear, mixed-integer and metaheuristics. I am currently pursuing an MBA in Data Science and Analytics on [USP/Esalq](https://mbauspesalq.com/cursos/mba-em-data-science-e-analytics/) and the [Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics).
 
-I'm a data scientist and work in the optimization area since my scientific initiation, about 6 years ago, with 3 years in Linear Problems and Mixed Integer, and I've worked with several optimization models. I am passionate about learning new tools and business rules, talking to different areas to extract potential value levers and communicate results.
 
+I'm a data scientist and work in the optimization area since my scientific initiation, about 6 years ago, with 3 years in Linear Problems and Mixed Integer, and I've worked with several optimization models. I am passionate about learning new tools and business rules, talking to different areas to extract potential value levers and communicate results.
+___________
 <!-- 
 ## Hey guys, i'm Patrick Vasconcelos and this is my stats
-_____________
+_____________ -->
  <div>
   <a href="https://github.com/patrickvasconcelos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickvasconcelos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickvasconcelos&layout=compact&langs_count=16&theme=radical"/>
 <div>
-  -->
- ___________
+ 
+ 
 <!-- ## 📘🤓 I’m currently learning ... and working 🛠️ with 
 &nbsp;
  - ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
