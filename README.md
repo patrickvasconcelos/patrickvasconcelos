@@ -1,6 +1,6 @@
 ## Hello, I'm Patrick Vasconcelos
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickvasconcelos&color=blue" alt="patrickvasconcelos" /> </p>
-I am an Engineering Physicist with experience in optimization models such as linear, mixed-integer and metaheuristics. I am currently pursuing an MBA in Data Science and Analytics on [USP/Esalq](https://mbauspesalq.com/cursos/mba-em-data-science-e-analytics/) and the [Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics).
+I am an Engineering Physicist with experience in optimization models such as linear, mixed-integer and metaheuristics. I am currently pursuing an <a target="_blank" href="https://mbauspesalq.com/cursos/mba-em-data-science-e-analytics/">MBA in Data Science and Analytics on USP/Esalq</a> and the <a target="_blank" href="https://www.coursera.org/professional-certificates/google-data-analytics">Google Data Analytics Certificate</a>.
 
 
 I'm a data scientist and work in the optimization area since my scientific initiation, about 6 years ago, with 3 years in Linear Problems and Mixed Integer, and I've worked with several optimization models. I am passionate about learning new tools and business rules, talking to different areas to extract potential value levers and communicate results.
